@@ -52,4 +52,4 @@ By plotting pair grid of several numerical variables (['nb_of_patients', 'avg_te
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+> I tried to add all the titles and labels and unify sizes and color palettes among all visualizations so in the presentaion slide deck i only chose what visualization to show but the polishing was also done in the exploration step
